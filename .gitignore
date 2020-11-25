@@ -330,3 +330,21 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+CodeCoverage/index.htm
+CodeCoverage/index.html
+CodeCoverage/Tailspin.SpaceGame.Web_ErrorViewModel.html
+CodeCoverage/Tailspin.SpaceGame.Web_HomeController.html
+CodeCoverage/Tailspin.SpaceGame.Web_LeaderboardViewModel.html
+CodeCoverage/Tailspin.SpaceGame.Web_LocalDocumentDBRepository_1.html
+CodeCoverage/Tailspin.SpaceGame.Web_Model.html
+CodeCoverage/Tailspin.SpaceGame.Web_Profile.html
+CodeCoverage/Tailspin.SpaceGame.Web_Program.html
+CodeCoverage/Tailspin.SpaceGame.Web_Score.html
+CodeCoverage/Tailspin.SpaceGame.Web_Startup.html
+CodeCoverage/Tailspin.SpaceGame.Web.Views_Views__ViewStart.html
+CodeCoverage/Tailspin.SpaceGame.Web.Views_Views_Home_Index.html
+CodeCoverage/Tailspin.SpaceGame.Web.Views_Views_Home_Privacy.html
+CodeCoverage/Tailspin.SpaceGame.Web.Views_Views_Home_Profile.html
+CodeCoverage/Tailspin.SpaceGame.Web.Views_Views_Shared__CookieConsentPartial.html
+CodeCoverage/Tailspin.SpaceGame.Web.Views_Views_Shared__Layout.html
+CodeCoverage/Tailspin.SpaceGame.Web.Views_Views_Shared_Error.html
